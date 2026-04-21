@@ -1,4 +1,4 @@
-Title,IMDb_rating,Year,MPA rating,Genre,Director,Star Cast,MetaScore,Duration (minutes)
+Title,IMDb rating,Year,MPA rating,Genre,Director,Star_Cast,MetaScore,Duration_(minutes)
 The Green Knight,6.6,2021,R,Adventure,David Lowery,Dev PatelAlicia VikanderJoel Edgerton,85.0,130.0
 Star Wars: The Clone Wars,5.9,2008,PG,Animation,Dave Filoni,Matt Lanter,35.0,98.0
 A Quiet Place,7.5,2018,PG-13,Drama,John Krasinski,Bryan WoodsScott BeckJohn Krasinski,82.0,90.0
